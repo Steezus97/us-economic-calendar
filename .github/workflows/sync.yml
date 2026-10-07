@@ -1,0 +1,48 @@
+name: Refresh economic calendar
+on:
+  schedule:
+    - cron: '17 10 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['sync.py', 'requirements.txt', '.github/workflows/sync.yml']
+concurrency:
+  group: calendar-sync
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - run: python -m unittest discover -s tests -v
+      - name: Read MarketWatch and update feed
+        run: python sync.py
+      - name: Persist event identities
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/state.json public/calendar.ics public/status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh economic calendar'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+      - name: Publish feed
+        id: deployment
+        uses: actions/deploy-pages@v4
