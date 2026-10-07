@@ -24,4 +24,4 @@ MarketWatch can restrict automated access, including from cloud runners. Browser
 
 `python -m unittest discover -s tests -v`
 
-`python sync.py` requires Playwright and Chromium. `python sync.py --snapshot snapshot.json` validates the transformation using a saved table snapshot; it is not a live sync.
+`python sync.py` requires Playwright and Chromium. Set `MARKETWATCH_BROWSER_CHANNEL=chrome` to use an installed Google Chrome instead. The GitHub runner uses its preinstalled Chrome. `python sync.py --snapshot snapshot.json` validates the transformation using a saved table snapshot; it is not a live sync.

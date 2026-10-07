@@ -2,6 +2,7 @@
 import argparse
 import hashlib
 import json
+import os
 import re
 import uuid
 from datetime import datetime, timedelta, timezone
@@ -34,7 +35,8 @@ EXTRACT = r"""() => {
 def collect():
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
-        browser = p.chromium.launch()
+        channel = os.environ.get('MARKETWATCH_BROWSER_CHANNEL')
+        browser = p.chromium.launch(**({'channel': channel} if channel else {}))
         page = browser.new_page(viewport={"width": 1280, "height": 900})
         response = page.goto(SOURCE, wait_until="domcontentloaded", timeout=60000)
         if response and response.status >= 400:

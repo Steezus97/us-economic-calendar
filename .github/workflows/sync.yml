@@ -13,6 +13,8 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    env:
+      MARKETWATCH_BROWSER_CHANNEL: chrome
     permissions:
       contents: write
       pages: write
@@ -22,11 +24,12 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      - run: python -m playwright install --with-deps chromium
       - run: python -m unittest discover -s tests -v
       - name: Read MarketWatch and update feed
         run: python sync.py
@@ -37,6 +40,7 @@ jobs:
           git add data/state.json public/calendar.ics public/status.json
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh economic calendar'
+            git pull --rebase origin main
             git push
           fi
       - uses: actions/configure-pages@v5
