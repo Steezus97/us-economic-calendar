@@ -2,7 +2,7 @@
 
 A public Apple Calendar subscription containing Trading Economics United States events with two or three stars (medium or high importance).
 
-Subscribe to https://steezus97.github.io/marketwatch-calendar-sync/calendar.ics using Apple Calendar → File → New Calendar Subscription. Choose iCloud as the location and an hourly or daily refresh. Importing the file once does not subscribe to updates.
+Subscribe to https://steezus97.github.io/us-economic-calendar/calendar.ics using Apple Calendar → File → New Calendar Subscription. Choose iCloud as the location and an hourly or daily refresh. Importing the file once does not subscribe to updates.
 
 GitHub Actions checks the public US calendar daily at 10:17 UTC and publishes the feed through GitHub Pages. Your Mac does not need to be available. Apple fetches changes according to its subscription refresh setting; scheduled GitHub runs can be delayed.
 
@@ -12,4 +12,4 @@ If fetching or parsing fails, the previous published feed remains available. Mon
 
 Run with Python 3.12+: `python -m unittest discover -s tests -v`, then `python sync.py`. `--snapshot path/to/source.html` supports offline validation.
 
-The repository name remains from the original MarketWatch attempt; the active feed uses Trading Economics.
+The active feed uses Trading Economics.

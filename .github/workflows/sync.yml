@@ -29,7 +29,7 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements.txt
       - run: python -m unittest discover -s tests -v
-      - name: Read MarketWatch and update feed
+      - name: Read Trading Economics and update feed
         run: python sync.py
       - name: Persist event identities
         run: |
