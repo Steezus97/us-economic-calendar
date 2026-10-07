@@ -34,6 +34,19 @@ class SyncTests(unittest.TestCase):
             with self.assertRaises(ValueError):sync.parse(invalid)
     def test_duplicate_ids(self):
         with self.assertRaises(ValueError):sync.reconcile(sync.parse(self.page(self.row(2),self.row(2))),{},datetime.now(timezone.utc))
+    def test_alarms_update_existing_and_retained_events(self):
+        now=datetime(2026,10,7,tzinfo=timezone.utc)
+        events=sync.parse(self.page(self.row(2),self.row(3)))
+        state=sync.reconcile(events,{},now)
+        for event in state.values():event.pop('alarm_minutes')
+        state=sync.reconcile(events[:1],state,now)
+        self.assertTrue(all(e['sequence']==1 for e in state.values()))
+        content=sync.calendar(state)
+        self.assertEqual(content.count('BEGIN:VALARM'),2)
+        self.assertEqual(content.count('TRIGGER:-PT30M'),2)
+        state=sync.reconcile(events,state,now)
+        self.assertTrue(all(e['sequence']==1 for e in state.values()))
+
     def test_unicode_folding(self):
         line='SUMMARY:'+sync.escape('é'*100+',;\n')
         folded=sync.fold(line)

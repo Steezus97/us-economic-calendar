@@ -66,7 +66,7 @@ def parse(page):
         start = datetime.strptime(day[1] + ' ' + time, '%Y-%m-%d %I:%M %p').replace(tzinfo=timezone.utc)
         period = re.search(r'<span[^>]*class=[\'"]calendar-reference[\'"][^>]*>(.*?)</span>', row, re.S)
         events.append({'id':attrs['data-id'], 'title':clean(title[1]), 'period':clean(period[1]) if period else '',
-            'description':f'Impact: {impact} stars', 'impact':impact, 'start':start.isoformat()})
+            'description':f'Impact: {impact} stars', 'impact':impact, 'alarm_minutes':30, 'start':start.isoformat()})
     if not any(not e.get('excluded') for e in events):
         raise ValueError('Empty filtered calendar; preserving existing feed')
     return events
@@ -76,7 +76,7 @@ def collect():
         return response.read().decode('utf-8')
 
 def signature(event):
-    return hashlib.sha256(json.dumps({k:event[k] for k in ('title','period','description','start')},sort_keys=True).encode()).hexdigest()
+    return hashlib.sha256(json.dumps({k:event.get(k) for k in ('title','period','description','start','alarm_minutes')},sort_keys=True).encode()).hexdigest()
 
 def reconcile(incoming, records, now):
     records = dict(records)
@@ -91,6 +91,10 @@ def reconcile(incoming, records, now):
         changed = old is None or signature(old) != signature(event)
         records[key] = {**event, 'sequence':(old['sequence'] + 1 if old else 0) if changed else old['sequence'],
             'modified':now.isoformat() if changed else old['modified']}
+    # Also update retained events outside the current source window.
+    for event in records.values():
+        if event.get('alarm_minutes') != 30:
+            event.update(alarm_minutes=30, sequence=event['sequence']+1, modified=now.isoformat())
     return {k:v for k,v in records.items() if k.startswith('te-') and datetime.fromisoformat(v['start']) > now-timedelta(days=90)}
 
 def escape(value):
@@ -121,7 +125,8 @@ def calendar(records):
                   "SEQUENCE:" + str(event["sequence"]), "DTSTART:" + stamp(event["start"]),
                   "DTEND:" + stamp((start + timedelta(minutes=15)).isoformat()),
                   "SUMMARY:" + escape(event["title"]), "DESCRIPTION:" + escape(description),
-                  "URL:" + SOURCE, "TRANSP:TRANSPARENT", "END:VEVENT"]
+                  "URL:" + SOURCE, "TRANSP:TRANSPARENT", "BEGIN:VALARM", "ACTION:DISPLAY",
+                  "TRIGGER:-PT30M", "DESCRIPTION:" + escape(event["title"]), "END:VALARM", "END:VEVENT"]
     return "\r\n".join(map(fold, lines + ["END:VCALENDAR"])) + "\r\n"
 
 def main():

@@ -5,9 +5,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T12:15:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398429": {
     "id": "398429",
@@ -15,9 +16,10 @@
     "period": "AUG",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398332": {
     "id": "398332",
@@ -25,9 +27,10 @@
     "period": "AUG",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398061": {
     "id": "398061",
@@ -35,9 +38,10 @@
     "period": "AUG",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421482": {
     "id": "421482",
@@ -45,9 +49,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T13:05:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421481": {
     "id": "421481",
@@ -55,9 +60,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T14:45:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421531": {
     "id": "421531",
@@ -65,9 +71,10 @@
     "period": "Q3",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T15:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421514": {
     "id": "421514",
@@ -75,9 +82,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T16:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421530": {
     "id": "421530",
@@ -85,9 +93,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T17:15:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-396994": {
     "id": "396994",
@@ -95,9 +104,10 @@
     "period": "OCT/02",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T21:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421442": {
     "id": "421442",
@@ -105,9 +115,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-06T23:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-396995": {
     "id": "396995",
@@ -115,9 +126,10 @@
     "period": "OCT/02",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-07T11:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397002": {
     "id": "397002",
@@ -125,9 +137,10 @@
     "period": "OCT/02",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-07T14:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397008": {
     "id": "397008",
@@ -135,9 +148,10 @@
     "period": "OCT/02",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-07T14:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-390611": {
     "id": "390611",
@@ -145,9 +159,10 @@
     "period": "",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-07T18:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421561": {
     "id": "421561",
@@ -155,9 +170,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-08T08:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397015": {
     "id": "397015",
@@ -165,9 +181,10 @@
     "period": "OCT/03",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-08T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421532": {
     "id": "421532",
@@ -175,9 +192,10 @@
     "period": "Q3",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-08T15:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421483": {
     "id": "421483",
@@ -185,9 +203,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-08T17:40:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397068": {
     "id": "397068",
@@ -195,9 +214,10 @@
     "period": "OCT",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-09T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421484": {
     "id": "421484",
@@ -205,9 +225,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-09T20:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397737": {
     "id": "397737",
@@ -215,9 +236,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-12T18:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397848": {
     "id": "397848",
@@ -225,9 +247,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-13T12:15:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399064": {
     "id": "399064",
@@ -235,9 +258,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-13T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399139": {
     "id": "399139",
@@ -245,9 +269,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-13T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397042": {
     "id": "397042",
@@ -255,9 +280,10 @@
     "period": "OCT/09",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-14T11:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398650": {
     "id": "398650",
@@ -265,9 +291,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-14T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398936": {
     "id": "398936",
@@ -275,9 +302,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-14T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399100": {
     "id": "399100",
@@ -285,9 +313,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-14T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399075": {
     "id": "399075",
@@ -295,9 +324,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-14T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398220": {
     "id": "398220",
@@ -305,9 +335,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-14T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398487": {
     "id": "398487",
@@ -315,9 +346,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-14T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397037": {
     "id": "397037",
@@ -325,9 +357,10 @@
     "period": "OCT/09",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-14T20:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398427": {
     "id": "398427",
@@ -335,9 +368,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-15T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399088": {
     "id": "399088",
@@ -345,9 +379,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-15T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397058": {
     "id": "397058",
@@ -355,9 +390,10 @@
     "period": "OCT/10",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-15T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398746": {
     "id": "398746",
@@ -365,9 +401,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-15T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398414": {
     "id": "398414",
@@ -375,9 +412,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-15T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399324": {
     "id": "399324",
@@ -385,9 +423,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-15T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399247": {
     "id": "399247",
@@ -395,9 +434,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-15T13:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398494": {
     "id": "398494",
@@ -405,9 +445,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-15T13:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399269": {
     "id": "399269",
@@ -415,9 +456,10 @@
     "period": "AUG",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-15T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421533": {
     "id": "421533",
@@ -425,9 +467,10 @@
     "period": "Q3",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-15T15:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397045": {
     "id": "397045",
@@ -435,9 +478,10 @@
     "period": "OCT/09",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-15T16:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397049": {
     "id": "397049",
@@ -445,9 +489,10 @@
     "period": "OCT/09",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-15T16:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398006": {
     "id": "398006",
@@ -455,9 +500,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-16T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399217": {
     "id": "399217",
@@ -465,9 +511,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-16T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398738": {
     "id": "398738",
@@ -475,9 +522,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-16T13:15:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398362": {
     "id": "398362",
@@ -485,9 +533,10 @@
     "period": "AUG",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-16T20:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398192": {
     "id": "398192",
@@ -495,9 +544,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-19T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397849": {
     "id": "397849",
@@ -505,9 +555,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-20T12:15:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399131": {
     "id": "399131",
@@ -515,9 +566,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-20T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399226": {
     "id": "399226",
@@ -525,9 +577,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-20T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397931": {
     "id": "397931",
@@ -535,9 +588,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-20T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398490": {
     "id": "398490",
@@ -545,9 +599,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-20T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399122": {
     "id": "399122",
@@ -555,9 +610,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-20T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398322": {
     "id": "398322",
@@ -565,9 +621,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-20T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421534": {
     "id": "421534",
@@ -575,9 +632,10 @@
     "period": "Q3",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-20T15:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397088": {
     "id": "397088",
@@ -585,9 +643,10 @@
     "period": "OCT/16",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-20T20:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397089": {
     "id": "397089",
@@ -595,9 +654,10 @@
     "period": "OCT/16",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-21T11:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397100": {
     "id": "397100",
@@ -605,9 +665,10 @@
     "period": "OCT/16",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-21T14:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397098": {
     "id": "397098",
@@ -615,9 +676,10 @@
     "period": "OCT/16",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-21T14:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397108": {
     "id": "397108",
@@ -625,9 +687,10 @@
     "period": "OCT/17",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-22T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398767": {
     "id": "398767",
@@ -635,9 +698,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-23T13:45:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398504": {
     "id": "398504",
@@ -645,9 +709,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-23T13:45:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399085": {
     "id": "399085",
@@ -655,9 +720,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-23T13:45:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397162": {
     "id": "397162",
@@ -665,9 +731,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-23T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398758": {
     "id": "398758",
@@ -675,9 +742,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-26T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398757": {
     "id": "398757",
@@ -685,9 +753,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-26T14:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398367": {
     "id": "398367",
@@ -695,9 +764,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-27T12:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397850": {
     "id": "397850",
@@ -705,9 +775,10 @@
     "period": "",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-27T12:15:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398125": {
     "id": "398125",
@@ -715,9 +786,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-27T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398394": {
     "id": "398394",
@@ -725,9 +797,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-27T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398393": {
     "id": "398393",
@@ -735,9 +808,10 @@
     "period": "AUG",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-27T13:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-418459": {
     "id": "418459",
@@ -745,9 +819,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-27T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399185": {
     "id": "399185",
@@ -755,9 +830,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-27T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398441": {
     "id": "398441",
@@ -765,9 +841,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-27T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421535": {
     "id": "421535",
@@ -775,9 +852,10 @@
     "period": "Q3",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-27T15:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397130": {
     "id": "397130",
@@ -785,9 +863,10 @@
     "period": "OCT/23",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-27T20:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397135": {
     "id": "397135",
@@ -795,9 +874,10 @@
     "period": "OCT/23",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-28T11:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398559": {
     "id": "398559",
@@ -805,9 +885,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-28T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399039": {
     "id": "399039",
@@ -815,9 +896,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-28T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398634": {
     "id": "398634",
@@ -825,9 +907,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-28T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397138": {
     "id": "397138",
@@ -835,9 +918,10 @@
     "period": "OCT/23",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-28T14:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397142": {
     "id": "397142",
@@ -845,9 +929,10 @@
     "period": "OCT/23",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-28T14:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421536": {
     "id": "421536",
@@ -855,9 +940,10 @@
     "period": "Q3",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-28T15:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-390605": {
     "id": "390605",
@@ -865,9 +951,10 @@
     "period": "",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-28T18:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-390636": {
     "id": "390636",
@@ -875,9 +962,10 @@
     "period": "",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-28T18:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397886": {
     "id": "397886",
@@ -885,9 +973,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-29T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398178": {
     "id": "398178",
@@ -895,9 +984,10 @@
     "period": "Q3",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-29T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398255": {
     "id": "398255",
@@ -905,9 +995,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-29T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398269": {
     "id": "398269",
@@ -915,9 +1006,10 @@
     "period": "SEP",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-10-29T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398035": {
     "id": "398035",
@@ -925,9 +1017,10 @@
     "period": "Q3",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-29T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397151": {
     "id": "397151",
@@ -935,9 +1028,10 @@
     "period": "OCT/24",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-29T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-399052": {
     "id": "399052",
@@ -945,9 +1039,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-29T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398113": {
     "id": "398113",
@@ -955,9 +1050,10 @@
     "period": "SEP",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-29T12:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421537": {
     "id": "421537",
@@ -965,9 +1061,10 @@
     "period": "Q4",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-29T15:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398921": {
     "id": "398921",
@@ -975,9 +1072,10 @@
     "period": "Q3",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-30T13:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397958": {
     "id": "397958",
@@ -985,9 +1083,10 @@
     "period": "Q3",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-30T13:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398882": {
     "id": "398882",
@@ -995,9 +1094,10 @@
     "period": "Q3",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-30T13:30:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-398483": {
     "id": "398483",
@@ -1005,9 +1105,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-10-30T13:45:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397194": {
     "id": "397194",
@@ -1015,9 +1116,10 @@
     "period": "OCT",
     "description": "Impact: 3 stars",
     "impact": 3,
+    "alarm_minutes": 30,
     "start": "2026-11-02T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-397196": {
     "id": "397196",
@@ -1025,9 +1127,10 @@
     "period": "OCT",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-11-02T14:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   },
   "te-421538": {
     "id": "421538",
@@ -1035,8 +1138,9 @@
     "period": "Q4",
     "description": "Impact: 2 stars",
     "impact": 2,
+    "alarm_minutes": 30,
     "start": "2026-11-02T15:00:00+00:00",
-    "sequence": 0,
-    "modified": "2026-10-07T22:59:13.950122+00:00"
+    "sequence": 1,
+    "modified": "2026-10-07T23:11:41.939411+00:00"
   }
 }
