@@ -13,8 +13,6 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    env:
-      MARKETWATCH_BROWSER_CHANNEL: chrome
     permissions:
       contents: write
       pages: write

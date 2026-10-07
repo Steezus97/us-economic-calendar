@@ -1,29 +1,15 @@
-# MarketWatch → Apple Calendar
+# US economic calendar sync
 
-**Deployment status (October 7, 2026):** The repository and Pages configuration are created, but no live feed has been published. The cloud collector was tested and MarketWatch returned HTTP 401. The daily workflow is disabled until an accessible, authorized data source is configured. Eight transformation tests pass; browser extraction on the local Mac read 32 events successfully. See the [cloud validation run](https://github.com/Steezus97/marketwatch-calendar-sync/actions/runs/37693806431).
+A public Apple Calendar subscription containing Trading Economics United States events with two or three stars (medium or high importance).
 
-Personal hosted calendar feed. A GitHub Actions job reads MarketWatch's rendered economic calendar daily at 10:17 UTC (5:17 a.m. Central daylight time / 4:17 a.m. Central standard time), then publishes `public/calendar.ics` with GitHub Pages. Scheduled runs may be delayed by GitHub; public-repository schedules can be disabled after 60 days without repository activity. This job normally commits daily after a successful read.
+Subscribe to https://steezus97.github.io/marketwatch-calendar-sync/calendar.ics using Apple Calendar → File → New Calendar Subscription. Choose iCloud as the location and an hourly or daily refresh. Importing the file once does not subscribe to updates.
 
-Subscribe on Mac: Calendar → File → New Calendar Subscription. Paste the hosted HTTPS `calendar.ics` URL, choose iCloud as the location, and set auto-refresh to every hour. Importing a downloaded file does not provide ongoing synchronization. Apple refreshes independently of the daily collector, so updates can take additional time to appear.
+GitHub Actions checks the public US calendar daily at 10:17 UTC and publishes the feed through GitHub Pages. Your Mac does not need to be available. Apple fetches changes according to its subscription refresh setting; scheduled GitHub runs can be delayed.
 
-## Behavior
+The collector validates the source timezone as UTC. Apple displays events in your calendar's timezone. Entries have a 15-minute placeholder duration and do not mark you busy. Source event IDs preserve the same calendar identity across title/time changes. Events downgraded to one star are removed. Events missing from the rolling source window are retained for up to 90 days because absence does not prove cancellation.
 
-- Adds newly listed events and retains stable UIDs when a matched event's time or description changes.
-- Interprets source times in America/New_York, including daylight saving time, and publishes UTC timestamps.
-- Matches the exact report title and reporting period within 20 days (14 days without a reporting period). Ambiguous matches stop publication. A changed report title cannot always be recognized as the same event and may create a new entry.
-- Keeps events that leave the rolling page; disappearance is not treated as cancellation. Retains 90 days of history.
-- Uses 15-minute placeholder durations and leaves your calendar availability free.
-- Stops on access errors, unrecognized dates/times, empty results, or unexpected page structure. The existing hosted feed stays published. GitHub Actions reports failed runs through your configured GitHub notification settings.
-- Only captures MarketWatch's current default rolling window, not an entire year's future events.
+If fetching or parsing fails, the previous published feed remains available. Monitor `status.json` at the same base URL for the last successful update. Public page availability and markup may change. No Trading Economics API key or Apple credentials are used.
 
-## Hosting
+Run with Python 3.12+: `python -m unittest discover -s tests -v`, then `python sync.py`. `--snapshot path/to/source.html` supports offline validation.
 
-Create a GitHub repository containing these files, enable Settings → Pages → GitHub Actions, and run **Refresh economic calendar** manually once. Use the resulting Pages URL with `/calendar.ics` appended. Verify the first live run succeeds before subscribing. No Apple password or access to personal calendar contents is needed. Repository code and the derived event feed will be public when using a public repository.
-
-MarketWatch can restrict automated access, including from cloud runners. Browser access working on a Mac does not establish that GitHub's runner can read it. This project does not bypass login challenges or access controls. If cloud access fails, an authorized data feed or another source is needed for unattended hosting.
-
-## Validation
-
-`python -m unittest discover -s tests -v`
-
-`python sync.py` requires Playwright and Chromium. Set `MARKETWATCH_BROWSER_CHANNEL=chrome` to use an installed Google Chrome instead. The GitHub runner uses its preinstalled Chrome. `python sync.py --snapshot snapshot.json` validates the transformation using a saved table snapshot; it is not a live sync.
+The repository name remains from the original MarketWatch attempt; the active feed uses Trading Economics.

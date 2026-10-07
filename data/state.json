@@ -1,0 +1,1042 @@
+{
+  "te-397847": {
+    "id": "397847",
+    "title": "ADP Employment Change Weekly",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T12:15:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398429": {
+    "id": "398429",
+    "title": "Balance of Trade",
+    "period": "AUG",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398332": {
+    "id": "398332",
+    "title": "Exports",
+    "period": "AUG",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398061": {
+    "id": "398061",
+    "title": "Imports",
+    "period": "AUG",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421482": {
+    "id": "421482",
+    "title": "Fed Williams Speech",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T13:05:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421481": {
+    "id": "421481",
+    "title": "Fed Bowman Speech",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T14:45:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421531": {
+    "id": "421531",
+    "title": "Atlanta Fed GDPNow",
+    "period": "Q3",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T15:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421514": {
+    "id": "421514",
+    "title": "EIA Short-Term Energy Outlook",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T16:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421530": {
+    "id": "421530",
+    "title": "Fed Schmid Speech",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T17:15:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-396994": {
+    "id": "396994",
+    "title": "API Crude Oil Stock Change",
+    "period": "OCT/02",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T21:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421442": {
+    "id": "421442",
+    "title": "Fed Logan Speech",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-06T23:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-396995": {
+    "id": "396995",
+    "title": "MBA 30-Year Mortgage Rate",
+    "period": "OCT/02",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-07T11:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397002": {
+    "id": "397002",
+    "title": "EIA Crude Oil Stocks Change",
+    "period": "OCT/02",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-07T14:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397008": {
+    "id": "397008",
+    "title": "EIA Gasoline Stocks Change",
+    "period": "OCT/02",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-07T14:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-390611": {
+    "id": "390611",
+    "title": "FOMC Minutes",
+    "period": "",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-07T18:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421561": {
+    "id": "421561",
+    "title": "Fed Waller Speech",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-08T08:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397015": {
+    "id": "397015",
+    "title": "Initial Jobless Claims",
+    "period": "OCT/03",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-08T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421532": {
+    "id": "421532",
+    "title": "Atlanta Fed GDPNow",
+    "period": "Q3",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-08T15:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421483": {
+    "id": "421483",
+    "title": "Fed Musalem Speech",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-08T17:40:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397068": {
+    "id": "397068",
+    "title": "Michigan Consumer Sentiment Prel",
+    "period": "OCT",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-09T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421484": {
+    "id": "421484",
+    "title": "Fed Collins Speech",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-09T20:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397737": {
+    "id": "397737",
+    "title": "Monthly Budget Statement",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-12T18:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397848": {
+    "id": "397848",
+    "title": "ADP Employment Change Weekly",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-13T12:15:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399064": {
+    "id": "399064",
+    "title": "Existing Home Sales",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-13T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399139": {
+    "id": "399139",
+    "title": "Existing Home Sales MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-13T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397042": {
+    "id": "397042",
+    "title": "MBA 30-Year Mortgage Rate",
+    "period": "OCT/09",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-14T11:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398650": {
+    "id": "398650",
+    "title": "Core Inflation Rate MoM",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-14T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398936": {
+    "id": "398936",
+    "title": "Core Inflation Rate YoY",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-14T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399100": {
+    "id": "399100",
+    "title": "Inflation Rate MoM",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-14T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399075": {
+    "id": "399075",
+    "title": "Inflation Rate YoY",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-14T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398220": {
+    "id": "398220",
+    "title": "CPI",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-14T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398487": {
+    "id": "398487",
+    "title": "CPI s.a",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-14T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397037": {
+    "id": "397037",
+    "title": "API Crude Oil Stock Change",
+    "period": "OCT/09",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-14T20:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398427": {
+    "id": "398427",
+    "title": "PPI MoM",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-15T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399088": {
+    "id": "399088",
+    "title": "Core PPI MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-15T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397058": {
+    "id": "397058",
+    "title": "Initial Jobless Claims",
+    "period": "OCT/10",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-15T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398746": {
+    "id": "398746",
+    "title": "NY Empire State Manufacturing Index",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-15T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398414": {
+    "id": "398414",
+    "title": "Philadelphia Fed Manufacturing Index",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-15T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399324": {
+    "id": "399324",
+    "title": "Retail Sales Control Group MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-15T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399247": {
+    "id": "399247",
+    "title": "Retail Sales MoM",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-15T13:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398494": {
+    "id": "398494",
+    "title": "Retail Sales Ex Autos MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-15T13:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399269": {
+    "id": "399269",
+    "title": "Business Inventories MoM",
+    "period": "AUG",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-15T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421533": {
+    "id": "421533",
+    "title": "Atlanta Fed GDPNow",
+    "period": "Q3",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-15T15:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397045": {
+    "id": "397045",
+    "title": "EIA Crude Oil Stocks Change",
+    "period": "OCT/09",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-15T16:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397049": {
+    "id": "397049",
+    "title": "EIA Gasoline Stocks Change",
+    "period": "OCT/09",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-15T16:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398006": {
+    "id": "398006",
+    "title": "Export Prices MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-16T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399217": {
+    "id": "399217",
+    "title": "Import Prices MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-16T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398738": {
+    "id": "398738",
+    "title": "Industrial Production MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-16T13:15:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398362": {
+    "id": "398362",
+    "title": "Net Long-term TIC Flows",
+    "period": "AUG",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-16T20:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398192": {
+    "id": "398192",
+    "title": "NAHB Housing Market Index",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-19T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397849": {
+    "id": "397849",
+    "title": "ADP Employment Change Weekly",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-20T12:15:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399131": {
+    "id": "399131",
+    "title": "Building Permits Prel",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-20T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399226": {
+    "id": "399226",
+    "title": "Housing Starts",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-20T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397931": {
+    "id": "397931",
+    "title": "Building Permits MoM Prel",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-20T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398490": {
+    "id": "398490",
+    "title": "Housing Starts MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-20T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399122": {
+    "id": "399122",
+    "title": "Pending Home Sales MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-20T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398322": {
+    "id": "398322",
+    "title": "Pending Home Sales YoY",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-20T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421534": {
+    "id": "421534",
+    "title": "Atlanta Fed GDPNow",
+    "period": "Q3",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-20T15:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397088": {
+    "id": "397088",
+    "title": "API Crude Oil Stock Change",
+    "period": "OCT/16",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-20T20:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397089": {
+    "id": "397089",
+    "title": "MBA 30-Year Mortgage Rate",
+    "period": "OCT/16",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-21T11:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397100": {
+    "id": "397100",
+    "title": "EIA Crude Oil Stocks Change",
+    "period": "OCT/16",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-21T14:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397098": {
+    "id": "397098",
+    "title": "EIA Gasoline Stocks Change",
+    "period": "OCT/16",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-21T14:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397108": {
+    "id": "397108",
+    "title": "Initial Jobless Claims",
+    "period": "OCT/17",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-22T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398767": {
+    "id": "398767",
+    "title": "S&P; Global Composite PMI Flash",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-23T13:45:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398504": {
+    "id": "398504",
+    "title": "S&P; Global Manufacturing PMI Flash",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-23T13:45:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399085": {
+    "id": "399085",
+    "title": "S&P; Global Services PMI Flash",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-23T13:45:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397162": {
+    "id": "397162",
+    "title": "Michigan Consumer Sentiment Final",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-23T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398758": {
+    "id": "398758",
+    "title": "Chicago Fed National Activity Index",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-26T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398757": {
+    "id": "398757",
+    "title": "Dallas Fed Manufacturing Index",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-26T14:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398367": {
+    "id": "398367",
+    "title": "Building Permits MoM Final",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-27T12:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397850": {
+    "id": "397850",
+    "title": "ADP Employment Change Weekly",
+    "period": "",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-27T12:15:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398125": {
+    "id": "398125",
+    "title": "Durable Goods Orders MoM",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-27T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398394": {
+    "id": "398394",
+    "title": "Durable Goods Orders Ex Transp MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-27T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398393": {
+    "id": "398393",
+    "title": "S&P;/Case-Shiller Home Price YoY",
+    "period": "AUG",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-27T13:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-418459": {
+    "id": "418459",
+    "title": "CB Consumer Confidence",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-27T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399185": {
+    "id": "399185",
+    "title": "New Home Sales",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-27T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398441": {
+    "id": "398441",
+    "title": "New Home Sales MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-27T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421535": {
+    "id": "421535",
+    "title": "Atlanta Fed GDPNow",
+    "period": "Q3",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-27T15:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397130": {
+    "id": "397130",
+    "title": "API Crude Oil Stock Change",
+    "period": "OCT/23",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-27T20:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397135": {
+    "id": "397135",
+    "title": "MBA 30-Year Mortgage Rate",
+    "period": "OCT/23",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-28T11:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398559": {
+    "id": "398559",
+    "title": "Goods Trade Balance Adv",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-28T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399039": {
+    "id": "399039",
+    "title": "Retail Inventories Ex Autos MoM Adv",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-28T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398634": {
+    "id": "398634",
+    "title": "Wholesale Inventories MoM Adv",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-28T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397138": {
+    "id": "397138",
+    "title": "EIA Crude Oil Stocks Change",
+    "period": "OCT/23",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-28T14:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397142": {
+    "id": "397142",
+    "title": "EIA Gasoline Stocks Change",
+    "period": "OCT/23",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-28T14:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421536": {
+    "id": "421536",
+    "title": "Atlanta Fed GDPNow",
+    "period": "Q3",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-28T15:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-390605": {
+    "id": "390605",
+    "title": "Fed Interest Rate Decision",
+    "period": "",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-28T18:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-390636": {
+    "id": "390636",
+    "title": "Fed Press Conference",
+    "period": "",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-28T18:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397886": {
+    "id": "397886",
+    "title": "Core PCE Price Index MoM",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-29T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398178": {
+    "id": "398178",
+    "title": "GDP Growth Rate QoQ Adv",
+    "period": "Q3",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-29T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398255": {
+    "id": "398255",
+    "title": "Personal Income MoM",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-29T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398269": {
+    "id": "398269",
+    "title": "Personal Spending MoM",
+    "period": "SEP",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-10-29T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398035": {
+    "id": "398035",
+    "title": "GDP Price Index QoQ Adv",
+    "period": "Q3",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-29T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397151": {
+    "id": "397151",
+    "title": "Initial Jobless Claims",
+    "period": "OCT/24",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-29T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-399052": {
+    "id": "399052",
+    "title": "PCE Price Index MoM",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-29T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398113": {
+    "id": "398113",
+    "title": "PCE Price Index YoY",
+    "period": "SEP",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-29T12:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421537": {
+    "id": "421537",
+    "title": "Atlanta Fed GDPNow",
+    "period": "Q4",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-29T15:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398921": {
+    "id": "398921",
+    "title": "Employment Cost - Benefits QoQ",
+    "period": "Q3",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-30T13:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397958": {
+    "id": "397958",
+    "title": "Employment Cost - Wages QoQ",
+    "period": "Q3",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-30T13:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398882": {
+    "id": "398882",
+    "title": "Employment Cost Index QoQ",
+    "period": "Q3",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-30T13:30:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-398483": {
+    "id": "398483",
+    "title": "Chicago PMI",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-10-30T13:45:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397194": {
+    "id": "397194",
+    "title": "ISM Manufacturing PMI",
+    "period": "OCT",
+    "description": "Impact: 3 stars",
+    "impact": 3,
+    "start": "2026-11-02T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-397196": {
+    "id": "397196",
+    "title": "ISM Manufacturing Employment",
+    "period": "OCT",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-11-02T14:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  },
+  "te-421538": {
+    "id": "421538",
+    "title": "Atlanta Fed GDPNow",
+    "period": "Q4",
+    "description": "Impact: 2 stars",
+    "impact": 2,
+    "start": "2026-11-02T15:00:00+00:00",
+    "sequence": 0,
+    "modified": "2026-10-07T22:59:13.950122+00:00"
+  }
+}

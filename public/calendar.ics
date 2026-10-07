@@ -1,0 +1,1451 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Personal Economic Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Economic Calendar (2–3 stars)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:te-397847@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T121500Z
+DTEND:20261006T123000Z
+SUMMARY:ADP Employment Change Weekly
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398429@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T123000Z
+DTEND:20261006T124500Z
+SUMMARY:Balance of Trade
+DESCRIPTION:Impact: 2 stars\nReporting period: AUG\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398332@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T123000Z
+DTEND:20261006T124500Z
+SUMMARY:Exports
+DESCRIPTION:Impact: 2 stars\nReporting period: AUG\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398061@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T123000Z
+DTEND:20261006T124500Z
+SUMMARY:Imports
+DESCRIPTION:Impact: 2 stars\nReporting period: AUG\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421482@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T130500Z
+DTEND:20261006T132000Z
+SUMMARY:Fed Williams Speech
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421481@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T144500Z
+DTEND:20261006T150000Z
+SUMMARY:Fed Bowman Speech
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421531@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T150000Z
+DTEND:20261006T151500Z
+SUMMARY:Atlanta Fed GDPNow
+DESCRIPTION:Impact: 2 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421514@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T160000Z
+DTEND:20261006T161500Z
+SUMMARY:EIA Short-Term Energy Outlook
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421530@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T171500Z
+DTEND:20261006T173000Z
+SUMMARY:Fed Schmid Speech
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-396994@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T210000Z
+DTEND:20261006T211500Z
+SUMMARY:API Crude Oil Stock Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/02\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421442@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261006T230000Z
+DTEND:20261006T231500Z
+SUMMARY:Fed Logan Speech
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-396995@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261007T110000Z
+DTEND:20261007T111500Z
+SUMMARY:MBA 30-Year Mortgage Rate
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/02\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397002@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261007T143000Z
+DTEND:20261007T144500Z
+SUMMARY:EIA Crude Oil Stocks Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/02\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397008@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261007T143000Z
+DTEND:20261007T144500Z
+SUMMARY:EIA Gasoline Stocks Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/02\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-390611@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261007T180000Z
+DTEND:20261007T181500Z
+SUMMARY:FOMC Minutes
+DESCRIPTION:Impact: 3 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421561@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261008T083000Z
+DTEND:20261008T084500Z
+SUMMARY:Fed Waller Speech
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397015@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261008T123000Z
+DTEND:20261008T124500Z
+SUMMARY:Initial Jobless Claims
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/03\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421532@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261008T150000Z
+DTEND:20261008T151500Z
+SUMMARY:Atlanta Fed GDPNow
+DESCRIPTION:Impact: 2 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421483@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261008T174000Z
+DTEND:20261008T175500Z
+SUMMARY:Fed Musalem Speech
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397068@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261009T140000Z
+DTEND:20261009T141500Z
+SUMMARY:Michigan Consumer Sentiment Prel
+DESCRIPTION:Impact: 3 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421484@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261009T200000Z
+DTEND:20261009T201500Z
+SUMMARY:Fed Collins Speech
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397737@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261012T180000Z
+DTEND:20261012T181500Z
+SUMMARY:Monthly Budget Statement
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397848@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261013T121500Z
+DTEND:20261013T123000Z
+SUMMARY:ADP Employment Change Weekly
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399064@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261013T140000Z
+DTEND:20261013T141500Z
+SUMMARY:Existing Home Sales
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399139@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261013T140000Z
+DTEND:20261013T141500Z
+SUMMARY:Existing Home Sales MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397042@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261014T110000Z
+DTEND:20261014T111500Z
+SUMMARY:MBA 30-Year Mortgage Rate
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/09\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398650@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261014T123000Z
+DTEND:20261014T124500Z
+SUMMARY:Core Inflation Rate MoM
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398936@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261014T123000Z
+DTEND:20261014T124500Z
+SUMMARY:Core Inflation Rate YoY
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399100@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261014T123000Z
+DTEND:20261014T124500Z
+SUMMARY:Inflation Rate MoM
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399075@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261014T123000Z
+DTEND:20261014T124500Z
+SUMMARY:Inflation Rate YoY
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398220@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261014T123000Z
+DTEND:20261014T124500Z
+SUMMARY:CPI
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398487@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261014T123000Z
+DTEND:20261014T124500Z
+SUMMARY:CPI s.a
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397037@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261014T203000Z
+DTEND:20261014T204500Z
+SUMMARY:API Crude Oil Stock Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/09\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398427@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T123000Z
+DTEND:20261015T124500Z
+SUMMARY:PPI MoM
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399088@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T123000Z
+DTEND:20261015T124500Z
+SUMMARY:Core PPI MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397058@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T123000Z
+DTEND:20261015T124500Z
+SUMMARY:Initial Jobless Claims
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/10\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398746@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T123000Z
+DTEND:20261015T124500Z
+SUMMARY:NY Empire State Manufacturing Index
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398414@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T123000Z
+DTEND:20261015T124500Z
+SUMMARY:Philadelphia Fed Manufacturing Index
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399324@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T123000Z
+DTEND:20261015T124500Z
+SUMMARY:Retail Sales Control Group MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399247@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T133000Z
+DTEND:20261015T134500Z
+SUMMARY:Retail Sales MoM
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398494@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T133000Z
+DTEND:20261015T134500Z
+SUMMARY:Retail Sales Ex Autos MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399269@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T140000Z
+DTEND:20261015T141500Z
+SUMMARY:Business Inventories MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: AUG\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421533@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T150000Z
+DTEND:20261015T151500Z
+SUMMARY:Atlanta Fed GDPNow
+DESCRIPTION:Impact: 2 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397045@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T160000Z
+DTEND:20261015T161500Z
+SUMMARY:EIA Crude Oil Stocks Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/09\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397049@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261015T160000Z
+DTEND:20261015T161500Z
+SUMMARY:EIA Gasoline Stocks Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/09\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398006@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261016T123000Z
+DTEND:20261016T124500Z
+SUMMARY:Export Prices MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399217@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261016T123000Z
+DTEND:20261016T124500Z
+SUMMARY:Import Prices MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398738@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261016T131500Z
+DTEND:20261016T133000Z
+SUMMARY:Industrial Production MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398362@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261016T200000Z
+DTEND:20261016T201500Z
+SUMMARY:Net Long-term TIC Flows
+DESCRIPTION:Impact: 2 stars\nReporting period: AUG\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398192@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261019T140000Z
+DTEND:20261019T141500Z
+SUMMARY:NAHB Housing Market Index
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397849@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261020T121500Z
+DTEND:20261020T123000Z
+SUMMARY:ADP Employment Change Weekly
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399131@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261020T123000Z
+DTEND:20261020T124500Z
+SUMMARY:Building Permits Prel
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399226@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261020T123000Z
+DTEND:20261020T124500Z
+SUMMARY:Housing Starts
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397931@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261020T123000Z
+DTEND:20261020T124500Z
+SUMMARY:Building Permits MoM Prel
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398490@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261020T123000Z
+DTEND:20261020T124500Z
+SUMMARY:Housing Starts MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399122@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261020T140000Z
+DTEND:20261020T141500Z
+SUMMARY:Pending Home Sales MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398322@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261020T140000Z
+DTEND:20261020T141500Z
+SUMMARY:Pending Home Sales YoY
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421534@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261020T150000Z
+DTEND:20261020T151500Z
+SUMMARY:Atlanta Fed GDPNow
+DESCRIPTION:Impact: 2 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397088@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261020T203000Z
+DTEND:20261020T204500Z
+SUMMARY:API Crude Oil Stock Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/16\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397089@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261021T110000Z
+DTEND:20261021T111500Z
+SUMMARY:MBA 30-Year Mortgage Rate
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/16\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397100@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261021T143000Z
+DTEND:20261021T144500Z
+SUMMARY:EIA Crude Oil Stocks Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/16\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397098@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261021T143000Z
+DTEND:20261021T144500Z
+SUMMARY:EIA Gasoline Stocks Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/16\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397108@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261022T123000Z
+DTEND:20261022T124500Z
+SUMMARY:Initial Jobless Claims
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/17\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398767@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261023T134500Z
+DTEND:20261023T140000Z
+SUMMARY:S&P\; Global Composite PMI Flash
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398504@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261023T134500Z
+DTEND:20261023T140000Z
+SUMMARY:S&P\; Global Manufacturing PMI Flash
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399085@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261023T134500Z
+DTEND:20261023T140000Z
+SUMMARY:S&P\; Global Services PMI Flash
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397162@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261023T140000Z
+DTEND:20261023T141500Z
+SUMMARY:Michigan Consumer Sentiment Final
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398758@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261026T123000Z
+DTEND:20261026T124500Z
+SUMMARY:Chicago Fed National Activity Index
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398757@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261026T143000Z
+DTEND:20261026T144500Z
+SUMMARY:Dallas Fed Manufacturing Index
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398367@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261027T120000Z
+DTEND:20261027T121500Z
+SUMMARY:Building Permits MoM Final
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397850@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261027T121500Z
+DTEND:20261027T123000Z
+SUMMARY:ADP Employment Change Weekly
+DESCRIPTION:Impact: 2 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398125@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261027T123000Z
+DTEND:20261027T124500Z
+SUMMARY:Durable Goods Orders MoM
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398394@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261027T123000Z
+DTEND:20261027T124500Z
+SUMMARY:Durable Goods Orders Ex Transp MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398393@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261027T130000Z
+DTEND:20261027T131500Z
+SUMMARY:S&P\;/Case-Shiller Home Price YoY
+DESCRIPTION:Impact: 2 stars\nReporting period: AUG\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-418459@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261027T140000Z
+DTEND:20261027T141500Z
+SUMMARY:CB Consumer Confidence
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399185@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261027T140000Z
+DTEND:20261027T141500Z
+SUMMARY:New Home Sales
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398441@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261027T140000Z
+DTEND:20261027T141500Z
+SUMMARY:New Home Sales MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421535@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261027T150000Z
+DTEND:20261027T151500Z
+SUMMARY:Atlanta Fed GDPNow
+DESCRIPTION:Impact: 2 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397130@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261027T203000Z
+DTEND:20261027T204500Z
+SUMMARY:API Crude Oil Stock Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/23\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397135@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261028T110000Z
+DTEND:20261028T111500Z
+SUMMARY:MBA 30-Year Mortgage Rate
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/23\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398559@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261028T123000Z
+DTEND:20261028T124500Z
+SUMMARY:Goods Trade Balance Adv
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399039@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261028T123000Z
+DTEND:20261028T124500Z
+SUMMARY:Retail Inventories Ex Autos MoM Adv
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398634@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261028T123000Z
+DTEND:20261028T124500Z
+SUMMARY:Wholesale Inventories MoM Adv
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397138@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261028T143000Z
+DTEND:20261028T144500Z
+SUMMARY:EIA Crude Oil Stocks Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/23\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397142@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261028T143000Z
+DTEND:20261028T144500Z
+SUMMARY:EIA Gasoline Stocks Change
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/23\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421536@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261028T150000Z
+DTEND:20261028T151500Z
+SUMMARY:Atlanta Fed GDPNow
+DESCRIPTION:Impact: 2 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-390605@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261028T180000Z
+DTEND:20261028T181500Z
+SUMMARY:Fed Interest Rate Decision
+DESCRIPTION:Impact: 3 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-390636@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261028T183000Z
+DTEND:20261028T184500Z
+SUMMARY:Fed Press Conference
+DESCRIPTION:Impact: 3 stars\nSource: https://tradingeconomics.com/united-st
+ ates/calendar\nEnd time is a 15-minute calendar placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397886@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261029T123000Z
+DTEND:20261029T124500Z
+SUMMARY:Core PCE Price Index MoM
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398178@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261029T123000Z
+DTEND:20261029T124500Z
+SUMMARY:GDP Growth Rate QoQ Adv
+DESCRIPTION:Impact: 3 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398255@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261029T123000Z
+DTEND:20261029T124500Z
+SUMMARY:Personal Income MoM
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398269@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261029T123000Z
+DTEND:20261029T124500Z
+SUMMARY:Personal Spending MoM
+DESCRIPTION:Impact: 3 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398035@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261029T123000Z
+DTEND:20261029T124500Z
+SUMMARY:GDP Price Index QoQ Adv
+DESCRIPTION:Impact: 2 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397151@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261029T123000Z
+DTEND:20261029T124500Z
+SUMMARY:Initial Jobless Claims
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT/24\nSource: https://trad
+ ingeconomics.com/united-states/calendar\nEnd time is a 15-minute calendar 
+ placeholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-399052@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261029T123000Z
+DTEND:20261029T124500Z
+SUMMARY:PCE Price Index MoM
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398113@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261029T123000Z
+DTEND:20261029T124500Z
+SUMMARY:PCE Price Index YoY
+DESCRIPTION:Impact: 2 stars\nReporting period: SEP\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421537@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261029T150000Z
+DTEND:20261029T151500Z
+SUMMARY:Atlanta Fed GDPNow
+DESCRIPTION:Impact: 2 stars\nReporting period: Q4\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398921@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261030T133000Z
+DTEND:20261030T134500Z
+SUMMARY:Employment Cost - Benefits QoQ
+DESCRIPTION:Impact: 2 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397958@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261030T133000Z
+DTEND:20261030T134500Z
+SUMMARY:Employment Cost - Wages QoQ
+DESCRIPTION:Impact: 2 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398882@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261030T133000Z
+DTEND:20261030T134500Z
+SUMMARY:Employment Cost Index QoQ
+DESCRIPTION:Impact: 2 stars\nReporting period: Q3\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-398483@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261030T134500Z
+DTEND:20261030T140000Z
+SUMMARY:Chicago PMI
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397194@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261102T140000Z
+DTEND:20261102T141500Z
+SUMMARY:ISM Manufacturing PMI
+DESCRIPTION:Impact: 3 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-397196@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261102T140000Z
+DTEND:20261102T141500Z
+SUMMARY:ISM Manufacturing Employment
+DESCRIPTION:Impact: 2 stars\nReporting period: OCT\nSource: https://trading
+ economics.com/united-states/calendar\nEnd time is a 15-minute calendar pla
+ ceholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:te-421538@tradingeconomics-personal-sync
+DTSTAMP:20261007T225913Z
+LAST-MODIFIED:20261007T225913Z
+SEQUENCE:0
+DTSTART:20261102T150000Z
+DTEND:20261102T151500Z
+SUMMARY:Atlanta Fed GDPNow
+DESCRIPTION:Impact: 2 stars\nReporting period: Q4\nSource: https://tradinge
+ conomics.com/united-states/calendar\nEnd time is a 15-minute calendar plac
+ eholder.
+URL:https://tradingeconomics.com/united-states/calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
