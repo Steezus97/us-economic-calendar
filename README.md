@@ -1,5 +1,7 @@
 # MarketWatch → Apple Calendar
 
+**Deployment status (October 7, 2026):** The repository and Pages configuration are created, but no live feed has been published. The cloud collector was tested and MarketWatch returned HTTP 401. The daily workflow is disabled until an accessible, authorized data source is configured. Eight transformation tests pass; browser extraction on the local Mac read 32 events successfully. See the [cloud validation run](https://github.com/Steezus97/marketwatch-calendar-sync/actions/runs/37693806431).
+
 Personal hosted calendar feed. A GitHub Actions job reads MarketWatch's rendered economic calendar daily at 10:17 UTC (5:17 a.m. Central daylight time / 4:17 a.m. Central standard time), then publishes `public/calendar.ics` with GitHub Pages. Scheduled runs may be delayed by GitHub; public-repository schedules can be disabled after 60 days without repository activity. This job normally commits daily after a successful read.
 
 Subscribe on Mac: Calendar → File → New Calendar Subscription. Paste the hosted HTTPS `calendar.ics` URL, choose iCloud as the location, and set auto-refresh to every hour. Importing a downloaded file does not provide ongoing synchronization. Apple refreshes independently of the daily collector, so updates can take additional time to appear.
