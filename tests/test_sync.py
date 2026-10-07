@@ -43,6 +43,20 @@ class SyncTests(unittest.TestCase):
                 {"date":"Wednesday, Oct. 14","time":"TBA","title":"CPI"}]},
                 datetime(2026,10,7,tzinfo=sync.ET))
 
+    def test_duplicate_input_is_rejected(self):
+        with self.assertRaises(ValueError):
+            sync.reconcile([self.event(), self.event()], {},
+                           datetime(2026,10,7,tzinfo=timezone.utc))
+
+    def test_ambiguous_identity_is_rejected(self):
+        now = datetime(2026,10,7,tzinfo=timezone.utc)
+        state = sync.reconcile([self.event()], {}, now)
+        second = dict(next(iter(state.values())))
+        second['start'] = '2026-10-16T12:30:00+00:00'
+        state['another-event'] = second
+        with self.assertRaises(ValueError):
+            sync.reconcile([self.event('2026-10-15T12:30:00+00:00')], state, now)
+
     def test_unicode_folding_and_escaping(self):
         line = "SUMMARY:" + sync.escape("é" * 100 + ",;\n")
         folded = sync.fold(line)
